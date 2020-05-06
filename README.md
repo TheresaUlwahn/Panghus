@@ -17,4 +17,3 @@ Call to action knapp	Läs mer och anmäla ditt intresse
 
 Storlek 980x240
 
-Storlekar	320x320, 250x600, 300x250
