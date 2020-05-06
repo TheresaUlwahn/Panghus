@@ -27,7 +27,7 @@ body {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	width: 980;
+	width: 980px;
 	height: 240px;
 	background-color: lightgray;
 
