@@ -15,4 +15,6 @@ Text och typsnitt	Texten är mörkgrå. Bakgrunden är ljusgrå. Knappen bör st
 
 Call to action knapp	Läs mer och anmäla ditt intresse
 
-Storlekar	320x320, 980x240, 250x600, 300x250
+Storlek 980x240
+
+Storlekar	320x320, 250x600, 300x250
