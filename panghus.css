@@ -30,22 +30,33 @@ body {
 	width: 980px;
 	height: 240px;
 	background-color: lightgray;
+}
 
+.productImg {
+	margin-left: 10px;
+	display: flex;
+	flex-direction: row;
+	align-self: center;
+}
+
+.panghusLogo {
+	display: fixed;
+	bottom: 10px;
 }
 
 .imgLogo {
 	width: 100px;
 	height: 100px;
-	margin: 10px 0px 0px 10px;
+	margin: 130px 10px 0px 0px;
 }
 
 .infoText {
 	display: flex;
 	flex-direction: column;
-  align-items: center;
-  text-align: center;
+	align-items: center;
+	text-align: center;
 	justify-content: center;
-	padding-left: 26px;
+	padding: 0px 20px 0px 20px;
 }
 
 h1 {
@@ -63,18 +74,16 @@ h2 {
 
 button {
 	padding: 0px;
-	/* border: solid 1px white; */
-	border: none;
+	border: solid 1px white;
+	border-radius: 50px;
+	border-top-style: groove;
+	/* border: none; */
 }
 
 button :hover {
+	border-radius: 50px;
 	cursor: pointer;
 	background-color: #6f6f6f;
 	color: white;
 }
 
-.productImg {
-	margin: 40px 16px 40px 0px;
-	display: flex;
-	flex-direction: row;
-}
